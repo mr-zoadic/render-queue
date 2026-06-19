@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "20260619T131611-6af4fa6bfd",
-  "status": "claimed",
+  "status": "done",
   "created_at": "2026-06-19T13:16:15Z",
-  "updated_at": "2026-06-19T13:28:32Z",
+  "updated_at": "2026-06-19T13:28:38Z",
   "claimed_at": "2026-06-19T13:23:34Z",
   "claimed_by": "SERVER",
   "attempts": 1,
@@ -22,15 +22,15 @@
     "script": null
   },
   "progress": {
-    "stage": "uploading",
-    "percent": 90,
-    "message": "uploading mp4"
+    "stage": "done",
+    "percent": 100,
+    "message": ""
   },
   "result": {
-    "asset_url": null,
-    "duration_seconds": null,
-    "slide_count": null,
-    "processing_time_seconds": null
+    "asset_url": "https://github.com/mr-zoadic/render-queue/releases/download/job-20260619T131611-6af4fa6bfd/20260619T131611-6af4fa6bfd.mp4",
+    "duration_seconds": 126.936,
+    "slide_count": 1,
+    "processing_time_seconds": 291.70072746276855
   },
   "error": null,
   "client_id": "ahmad-macbook"
