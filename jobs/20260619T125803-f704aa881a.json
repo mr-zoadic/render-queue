@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "20260619T125803-f704aa881a",
-  "status": "claimed",
+  "status": "failed",
   "created_at": "2026-06-19T12:58:07Z",
-  "updated_at": "2026-06-19T12:58:28Z",
+  "updated_at": "2026-06-19T12:58:29Z",
   "claimed_at": "2026-06-19T12:58:24Z",
   "claimed_by": "SERVER",
   "attempts": 2,
