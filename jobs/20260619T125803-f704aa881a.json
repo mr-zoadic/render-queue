@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "id": "20260619T125803-f704aa881a",
-  "status": "claimed",
+  "status": "queued",
   "created_at": "2026-06-19T12:58:07Z",
-  "updated_at": "2026-06-19T12:58:18Z",
-  "claimed_at": "2026-06-19T12:58:15Z",
-  "claimed_by": "SERVER",
+  "updated_at": "2026-06-19T12:58:20Z",
+  "claimed_at": null,
+  "claimed_by": null,
   "attempts": 1,
   "max_attempts": 2,
   "params": {
@@ -22,9 +22,9 @@
     "script": null
   },
   "progress": {
-    "stage": "generating",
-    "percent": 20,
-    "message": "running pipeline"
+    "stage": "queued",
+    "percent": 0,
+    "message": "requeued after error"
   },
   "result": {
     "asset_url": null,
@@ -32,6 +32,6 @@
     "slide_count": null,
     "processing_time_seconds": null
   },
-  "error": null,
+  "error": "ProcessingError: Cannot extract slides: No module named 'fitz'",
   "client_id": "ahmad-macbook"
 }
