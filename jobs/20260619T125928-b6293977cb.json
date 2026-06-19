@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "id": "20260619T125928-b6293977cb",
-  "status": "claimed",
+  "status": "queued",
   "created_at": "2026-06-19T12:59:31Z",
-  "updated_at": "2026-06-19T12:59:46Z",
-  "claimed_at": "2026-06-19T12:59:42Z",
-  "claimed_by": "SERVER",
+  "updated_at": "2026-06-19T13:02:41Z",
+  "claimed_at": null,
+  "claimed_by": null,
   "attempts": 1,
   "max_attempts": 2,
   "params": {
@@ -22,9 +22,9 @@
     "script": null
   },
   "progress": {
-    "stage": "generating",
-    "percent": 20,
-    "message": "running pipeline"
+    "stage": "queued",
+    "percent": 0,
+    "message": "requeued (stale)"
   },
   "result": {
     "asset_url": null,
