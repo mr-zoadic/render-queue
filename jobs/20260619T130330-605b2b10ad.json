@@ -3,7 +3,7 @@
   "id": "20260619T130330-605b2b10ad",
   "status": "claimed",
   "created_at": "2026-06-19T13:03:33Z",
-  "updated_at": "2026-06-19T13:03:50Z",
+  "updated_at": "2026-06-19T13:03:51Z",
   "claimed_at": "2026-06-19T13:03:50Z",
   "claimed_by": "SERVER",
   "attempts": 1,
@@ -22,9 +22,9 @@
     "script": null
   },
   "progress": {
-    "stage": "claimed",
-    "percent": 0,
-    "message": ""
+    "stage": "downloading",
+    "percent": 5,
+    "message": "fetching inputs"
   },
   "result": {
     "asset_url": null,
