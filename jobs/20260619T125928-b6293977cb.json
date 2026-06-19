@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "id": "20260619T125928-b6293977cb",
-  "status": "queued",
+  "status": "claimed",
   "created_at": "2026-06-19T12:59:31Z",
-  "updated_at": "2026-06-19T12:59:31Z",
-  "claimed_at": null,
-  "claimed_by": null,
-  "attempts": 0,
+  "updated_at": "2026-06-19T12:59:42Z",
+  "claimed_at": "2026-06-19T12:59:42Z",
+  "claimed_by": "SERVER",
+  "attempts": 1,
   "max_attempts": 2,
   "params": {
     "topic": "Remote render end-to-end test",
@@ -22,7 +22,7 @@
     "script": null
   },
   "progress": {
-    "stage": "queued",
+    "stage": "claimed",
     "percent": 0,
     "message": ""
   },
