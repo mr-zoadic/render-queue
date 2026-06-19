@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "20260619T151236-dd6d2bca5c",
-  "status": "claimed",
+  "status": "done",
   "created_at": "2026-06-19T15:12:40Z",
-  "updated_at": "2026-06-19T15:50:17Z",
+  "updated_at": "2026-06-19T15:50:24Z",
   "claimed_at": "2026-06-19T15:12:58Z",
   "claimed_by": "SERVER",
   "attempts": 1,
@@ -22,15 +22,15 @@
     "script": "inputs/20260619T151236-dd6d2bca5c/script.json"
   },
   "progress": {
-    "stage": "uploading",
-    "percent": 90,
-    "message": "uploading mp4"
+    "stage": "done",
+    "percent": 100,
+    "message": ""
   },
   "result": {
-    "asset_url": null,
-    "duration_seconds": null,
-    "slide_count": null,
-    "processing_time_seconds": null
+    "asset_url": "https://github.com/mr-zoadic/render-queue/releases/download/job-20260619T151236-dd6d2bca5c/20260619T151236-dd6d2bca5c.mp4",
+    "duration_seconds": 1009.2240000000002,
+    "slide_count": 10,
+    "processing_time_seconds": 2234.0790979862213
   },
   "error": null,
   "client_id": "cognirank-backend"
