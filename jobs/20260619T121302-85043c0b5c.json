@@ -3,7 +3,7 @@
   "id": "20260619T121302-85043c0b5c",
   "status": "claimed",
   "created_at": "2026-06-19T12:13:06Z",
-  "updated_at": "2026-06-19T12:13:15Z",
+  "updated_at": "2026-06-19T12:13:18Z",
   "claimed_at": "2026-06-19T12:13:15Z",
   "claimed_by": "SERVER",
   "attempts": 1,
@@ -22,9 +22,9 @@
     "script": null
   },
   "progress": {
-    "stage": "claimed",
-    "percent": 0,
-    "message": ""
+    "stage": "generating",
+    "percent": 20,
+    "message": "running pipeline"
   },
   "result": {
     "asset_url": null,
